@@ -33,7 +33,7 @@ cd multi-user-crypto-wallet
 ### 2. Run the Application
 
 ```bash
-python i221678_i221767_i221768_code.py
+python Multi-User Crypto Wallet with Shamir's Secret Sharing.py
 ```
 
 > **Note:** No additional packages need to be installed. The app uses only Python built-in modules (`tkinter`, `secrets`, `json`, `os`, `time`, `random`, `functools`).
@@ -71,11 +71,11 @@ python i221678_i221767_i221768_code.py
 
 ```
 multi-user-crypto-wallet/
-├── i221678_i221767_i221768_code.py   # Main application source code
-├── README.md                          # Project documentation
-├── requirements.txt                   # Dependencies (standard library only)
-├── .gitignore                         # Git ignore rules
-└── LICENSE                            # MIT License
+├── Multi-User Crypto Wallet with Shamir's Secret Sharing.py   # Main application source code
+├── README.md                                                  # Project documentation
+├── requirements.txt                                           # Dependencies (standard library only)
+├── .gitignore                                                 # Git ignore rules
+└── LICENSE                                                    # MIT License
 ```
 
 > **Runtime files** (`wallet_*.json`, `users.json`) are generated when wallets are created and are excluded from version control via `.gitignore`.
