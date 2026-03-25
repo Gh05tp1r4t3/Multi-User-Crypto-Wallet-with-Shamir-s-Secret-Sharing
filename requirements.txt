@@ -1,0 +1,13 @@
+# This project uses only Python standard library modules.
+# No external packages are required.
+#
+# Python >= 3.8 is required.
+#
+# Built-in modules used:
+#   - tkinter     (GUI framework)
+#   - secrets     (Cryptographically secure random bytes)
+#   - random      (Share coefficient generation)
+#   - json        (Wallet data persistence)
+#   - os          (File existence checks)
+#   - time        (Transaction timestamps)
+#   - functools   (Reduce for Lagrange interpolation)
