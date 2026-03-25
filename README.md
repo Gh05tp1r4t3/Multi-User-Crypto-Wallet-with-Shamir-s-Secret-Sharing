@@ -80,11 +80,6 @@ multi-user-crypto-wallet/
 
 > **Runtime files** (`wallet_*.json`, `users.json`) are generated when wallets are created and are excluded from version control via `.gitignore`.
 
-## 👥 Authors
-
-- Student ID: i221678
-- Student ID: i221767
-- Student ID: i221768
 
 ## 📄 License
 
